@@ -55,6 +55,38 @@ body {
 
 }
 
+.deeshu {
+	background: url(deeshu.jpeg);
+	background-repeat: round;
+	height: 830px;
+	line-height: 0.5;
+	margin-top: -40px;
+	text-align: right;
+}
+
+.deeshuh {
+	color: #0074b3;
+	font-family: HP Simplified Hans Regular;
+	padding-top : 270px;
+  padding-bottom: 0px;
+	padding-right : 100px;
+	font-size: 50px;
+}
+
+.deeshush {
+	color: white;
+	font-family: HP Simplified Hans Regular;
+	padding-right : 100px;
+	font-size: 30px;
+}
+
+.deeshup {
+	color: white;
+	font-family: Copperplate Gothic;
+	padding-right : 100px;
+	font-size: 30px;
+	line-height: 1;
+}
 .mehul {
 	background: url(mehul.jpeg);
 	background-repeat: round;
@@ -411,5 +443,5 @@ body {
 
 
 #blank {
-	height: 1000px;
+	height: 200px;
 
