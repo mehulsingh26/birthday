@@ -1,0 +1,415 @@
+a:link {
+	text-decoration: none;
+}
+a:hover {
+	color: red;
+}
+body {    
+    margin: 0px;
+    padding: 0px ;
+    background: #171717;
+    background-repeat: round;
+
+}
+
+.head {
+	text-align: left;
+	margin: 0px;
+	font-size: 20px;
+	padding:10px;
+	padding-left: 80px;
+	color: black;
+	font-family: Franklin Gothic;
+	  background-color: whitesmoke;
+	  margin-bottom: 25px;
+}
+
+.head:hover {
+	color: indianred;
+
+}
+
+.header {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color:#171717 ;
+  height: 110px;
+	
+	
+}
+
+.name {
+	position: -webkit-sticky;
+  position: sticky;
+}
+
+.namem {
+	color: whitesmoke;
+	margin-bottom: -25px;
+	padding-left: 80px;
+	font-family: calibri;
+	font-size: 20px;
+	
+	
+
+}
+
+.mehul {
+	background: url(mehul.jpeg);
+	background-repeat: round;
+	height: 830px;
+	line-height: 0.5;
+	margin-top: -40px;
+}
+
+.mehulh {
+	color: #a64d50;
+	font-family: HP Simplified Hans Regular;
+	padding-top : 270px;
+  padding-bottom: 0px;
+	padding-left : 100px;
+	font-size: 50px;
+}
+
+.mehulsh {
+	color: white;
+	font-family: HP Simplified Hans Regular;
+	padding-left : 100px;
+	font-size: 30px;
+}
+
+.mehulp {
+	color: white;
+	font-family: Copperplate Gothic;
+	padding-left : 100px;
+	font-size: 30px;
+	line-height: 1;
+}
+
+.daksh {
+	background: url(daksh.jpeg);
+	background-repeat: round;
+	height: 830px;
+	line-height: 0.5;
+	margin-top: -40px;
+	text-align: right;
+}
+
+.dakshh {
+	color: #0074b3;
+	font-family: HP Simplified Hans Regular;
+	padding-top : 270px;
+  padding-bottom: 0px;
+	padding-right : 100px;
+	font-size: 50px;
+}
+
+.dakshsh {
+	color: white;
+	font-family: HP Simplified Hans Regular;
+	padding-right : 100px;
+	font-size: 30px;
+}
+
+.dakshp {
+	color: white;
+	font-family: Copperplate Gothic;
+	padding-right : 100px;
+	font-size: 30px;
+	line-height: 1;
+}
+
+.vaishali {
+	background: url(vaishali.jpeg);
+	background-repeat: round;
+	height: 830px;
+	line-height: 0.5;
+	margin-top: -40px;
+}
+
+.vaishalih {
+	color: #a64d50;
+	font-family: HP Simplified Hans Regular;
+	padding-top : 270px;
+  padding-bottom: 0px;
+	padding-left : 100px;
+	font-size: 50px;
+}
+
+.vaishalish {
+	color: white;
+	font-family: HP Simplified Hans Regular;
+	padding-left : 100px;
+	font-size: 30px;
+}
+
+.vaishalip {
+	color: white;
+	font-family: Copperplate Gothic;
+	padding-left : 100px;
+	font-size: 30px;
+	line-height: 1;
+}
+
+.shalini {
+	background: url(shalu.jpeg);
+	background-repeat: round;
+	height: 830px;
+	line-height: 0.5;
+	margin-top: -40px;
+	text-align: right;
+}
+
+.shalinih {
+	color: #0074b3;
+	font-family: HP Simplified Hans Regular;
+	padding-top : 270px;
+  padding-bottom: 0px;
+	padding-right : 100px;
+	font-size: 50px;
+}
+
+.shalinish {
+	color: white;
+	font-family: HP Simplified Hans Regular;
+	padding-right : 100px;
+	font-size: 30px;
+}
+
+.shalinip {
+	color: white;
+	font-family: Copperplate Gothic;
+	padding-right : 100px;
+	font-size: 30px;
+	line-height: 1;
+}
+
+
+.anshul {
+	background: url(anshul.jpeg);
+	background-repeat: round;
+	height: 830px;
+	line-height: 0.5;
+	margin-top: -40px;
+}
+
+.anshulh {
+	color: #a64d50;
+	font-family: HP Simplified Hans Regular;
+	padding-top : 270px;
+  padding-bottom: 0px;
+	padding-left : 100px;
+	font-size: 50px;
+}
+
+.anshulsh {
+	color: white;
+	font-family: HP Simplified Hans Regular;
+	padding-left : 100px;
+	font-size: 30px;
+}
+
+.anshulp {
+	color: white;
+	font-family: Copperplate Gothic;
+	padding-left : 100px;
+	font-size: 30px;
+	line-height: 1;
+}
+
+.khushi {
+	background: url(khushi.jpeg);
+	background-repeat: round;
+	height: 830px;
+	line-height: 0.5;
+	margin-top: -40px;
+	text-align: right;
+}
+
+.khushih {
+	color: #0074b3;
+	font-family: HP Simplified Hans Regular;
+	padding-top : 270px;
+  padding-bottom: 0px;
+	padding-right : 100px;
+	font-size: 50px;
+}
+
+.khushish {
+	color: white;
+	font-family: HP Simplified Hans Regular;
+	padding-right : 100px;
+	font-size: 30px;
+}
+
+.khuship {
+	color: white;
+	font-family: Copperplate Gothic;
+	padding-right : 100px;
+	font-size: 30px;
+	line-height: 1;
+}
+
+.vansh {
+	background: url(vansh.jpeg);
+	background-repeat: round;
+	height: 830px;
+	line-height: 0.5;
+	margin-top: -40px;
+}
+
+.vanshh {
+	color: #a64d50;
+	font-family: HP Simplified Hans Regular;
+	padding-top : 270px;
+  padding-bottom: 0px;
+	padding-left : 100px;
+	font-size: 50px;
+}
+
+.vanshsh {
+	color: white;
+	font-family: HP Simplified Hans Regular;
+	padding-left : 100px;
+	font-size: 30px;
+}
+
+.vanshp {
+	color: white;
+	font-family: Copperplate Gothic;
+	padding-left : 100px;
+	font-size: 30px;
+	line-height: 1;
+}
+
+.bot0 {
+	text-align: left;
+	margin: 0px;
+	font-size: 20px;
+	padding:10px;
+	text-align: center;
+	color: black;
+	font-family: Franklin Gothic;
+	  background-color: whitesmoke;
+
+}
+
+.bot0:hover {
+	color: indianred;
+
+}
+
+.bot1 {
+	text-align: left;
+	margin: 0px;
+	font-size: 20px;
+	padding:10px;
+	text-align: center;
+	color: whitesmoke;
+	font-family: Franklin Gothic;
+	  background-color: #171717;
+
+
+}
+
+.bot1:hover {
+	color: indianred;
+
+}
+
+.bot2 {
+	text-align: left;
+	margin: 0px;
+	font-size: 20px;
+	padding:10px;
+	text-align: center;
+	color: black;
+	font-family: Franklin Gothic;
+	  background-color: whitesmoke;
+
+
+}
+
+.bot2:hover {
+	color: indianred;
+
+}
+
+
+.bot3 {
+	text-align: left;
+	margin: 0px;
+	font-size: 20px;
+	padding:10px;
+	text-align: center;
+	color: whitesmoke;
+	font-family: Franklin Gothic;
+	  background-color: #171717;
+
+
+}
+
+.bot3:hover {
+	color: indianred;
+
+}
+
+
+
+.bot4 {
+	text-align: left;
+	margin: 0px;
+	font-size: 20px;
+	padding:10px;
+	text-align: center;
+	color: black;
+	font-family: Franklin Gothic;
+	  background-color: whitesmoke;
+
+
+}
+
+.bot4:hover {
+	color: indianred;
+
+}
+
+.mbox {
+	height: 600px;
+	background: url(mbox.jpeg);
+	background-repeat: round;
+}
+
+.mabox{
+  background-color:#171717 ;
+  width: 300px;
+  border: 8px solid whitesmoke;
+  padding: 30px;
+  text-align: center;
+  margin: auto;
+  font-size: 35px;
+  font-family: Berlin Sans FB;
+  border-radius:840px;
+
+
+}
+.mabox:hover {
+	background-color:indianred ;
+}
+
+.ma {
+	color: whitesmoke;
+}
+
+.ma:hover {
+	color: whitesmoke;
+}
+
+
+
+
+
+#blank {
+	height: 1000px;
+
